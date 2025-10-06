@@ -51,3 +51,4 @@ Run scheduler:
 ```bash
 python scheduler.py
 ```
+This will create a raw_data/ directory for the JSON files and a stock_data.db SQLite database file.
