@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Data and Database
+raw_data/
+stock_data.db
+
+# Environment variables
+.env
+
+# IDE specific
+.vscode/
+.idea/
